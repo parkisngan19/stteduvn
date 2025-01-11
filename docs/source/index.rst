@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Stt - Kết Nối Tri Thức & Khơi Nguồn Sáng Tạo
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Stt <https://stt.edu.vn/>`_ mang đến nguồn tài liệu phong phú về học thuật, văn hóa và giải trí, giúp bạn khám phá từ kiến thức đến nghệ thuật. Các chuyên mục nổi bật bao gồm thơ, học văn, ca dao tục ngữ, đồng dao, sửa lỗi chính tả, và học thuật với nội dung phân tích chi tiết, hỗ trợ học sinh và người yêu văn hóa tìm hiểu sâu hơn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Bên cạnh đó, bạn có thể tìm thấy những bộ sưu tập hình ảnh, như 80+ hình ảnh cá chép đẹp, hay những bài viết ý nghĩa về các vấn đề xã hội, như tranh bạo lực học đường. Ngoài ra, Stt còn giới thiệu bí quyết vẽ chibi, top anime hài hước và các nội dung giải trí độc đáo như meme hài hước. Stt là địa chỉ lý tưởng dành cho mọi lứa tuổi, kết nối tri thức và khơi nguồn cảm hứng sáng tạo.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 24c1 Đ. Võ Văn Vân, Tân Tạo, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0988021370. 
 
-.. toctree::
+Email: info@stt.edu.vn. 
 
-   usage
-   api
+Website: https://stt.edu.vn/ 
+
+#stt #trangchustt #dangkystt #dangnhapstt #linkstt
